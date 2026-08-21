@@ -15,6 +15,7 @@ void main() {
   };
 
   print(information);
+  print(" ");
 
   print("Name : $firstname $lastname");
   print("Age : $age");
